@@ -5,12 +5,13 @@
 
 .container-fluid {
   padding: 3% 10%;
-  width: max-content;
+  width: 100%;
 }
 
 .header-container {
   padding-left: 5%;
 }
+
 h1 {
   font-family: "Montserrat", sans-serif;
   size: 3.5rem;
@@ -77,6 +78,7 @@ body {
 
 #features {
   padding: 10% 15%;
+  width: 100%;
 }
 
 .feature-box {
