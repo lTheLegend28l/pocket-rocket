@@ -1,0 +1,159 @@
+#title {
+  background-color: #222831;
+  color: white;
+}
+
+.container-fluid {
+  padding: 3% 10%;
+  width: max-content;
+}
+
+.header-container {
+  padding-left: 5%;
+}
+h1 {
+  font-family: "Montserrat", sans-serif;
+  size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.2rem;
+  font-weight: 300;
+}
+
+/* Download Buttons */
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title Image */
+
+.title-image {
+  transform: rotate(25deg);
+  width: 70%;
+  padding-left: 20%;
+  margin-bottom: 20%;
+}
+
+/* Features */
+
+#features {
+  padding: 10% 15%;
+}
+
+.feature-box {
+  padding: 4.5%;
+}
+
+.features-icon {
+  color: #222831;
+  margin-bottom: 1rem;
+}
+
+.features-icon:hover {
+  color: #393e46;
+}
+
+.features-heading {
+  text-align: center;
+  font-family: "Montserrat";
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.features-text {
+  text-align: center;
+  font-family: "Montserrat";
+  color: #8f8f8f;
+}
+
+/* Testimonial Section */
+
+#testimonials {
+  background-color: #222831;
+  text-align: center;
+  color: white;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  width: 4vw;
+  height: 4vw;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press {
+  background-color: #222831;
+  text-align: center;
+  padding-bottom: 3%;
+  padding-top: 3%;
+}
+
+.press-logo {
+  width: 13%;
+  margin: 20px 20px 50px;
+}
+
+/* Pricing Section*/
+.card {
+  padding: auto 10%;
+}
+
+/* Call to action */
+#cta {
+  padding-top: 5%;
+  text-align: center;
+}
+
+/* Footer */
+#footer {
+  padding-top: 2%;
+  text-align: center;
+}
